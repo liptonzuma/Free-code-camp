@@ -27,7 +27,7 @@ span {
 }
 
 #image {
-    width: 400px;
+    max-width: 400px;
 }
 
 #img-caption {
@@ -54,7 +54,6 @@ span {
     width: 200px;
     display: inline;
     height: 40px;
-    margin-left: 100px;
     border: 2px solid burlywood;
     border-radius: 15px;
     font-size: 15px;
