@@ -27,7 +27,9 @@ span {
 }
 
 #image {
-    max-width: 400px;
+    max-width: 50%;
+    margin: auto;
+    display: block;
 }
 
 #img-caption {
